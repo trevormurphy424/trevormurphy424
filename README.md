@@ -1,1 +1,1 @@
-See also: github.com/mystic-toad
+See also: https://github.com/mystic-toad
